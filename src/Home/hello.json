@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "name": "Alan Cycle",
+        "desc": " Founded in 1972, the company was named after Alberto and Anamaria, Falconi Ludovico’s kids. Today, the company sponsors multiple professional teams around the world.",
+        "img": "https://i.ibb.co/3SdmPYg/images.jpg ",
+        "price":"3874"
+    },
+    {
+        "id": 1,
+        "name": "Alchemy Cycles",
+        "desc": "hile Kestrel may have the first all-carbon design, Giant was the first to use computer aided design for carbon frames. In 2004  ",
+        "img": "https://i.ibb.co/Cs51qst/images-9.jpg ",
+        "price":"3834"
+
+    },
+    {
+        "id": 2,
+        "name": " Kestrel Cycle",
+        "desc": "y 2010 they were winning awards for nearly every design they created and introduced Liv/Giant in 2011. Liv/Giant specializes in designs specifically b ",
+        "img": " https://i.ibb.co/Cs51qst/images-9.jpg",
+        "price":"2874"
+
+    },
+    {
+        "id": 3,
+        "name": " focused Cycle",
+        "desc": "Founded in 1973 focused on building mid to high-end bikes in America. Trek is the largest bicycle brand based in the US. ",
+        "img": "https://i.ibb.co/V215FFY/images-7.jpg ",
+        "price":"985"
+    },
+    {
+        "id": 4,
+        "name": " Alians Cycale",
+        "desc": " The Trek 850, in 1983, was the first mountain bikes they ever released and it soon caught on that Trek was a name to remember.",
+        "img": "https://i.ibb.co/xzpbWLX/images-6.jpg ",
+        "price":"546"
+    },
+    {
+        "id": 5,
+        "name": "Rerjmila Cycale ",
+        "desc": "By 2001 they had introduced electric-hybrid bikes for endurance riders and trainers. The Trek FX1 is the best hybrid fitness bike due to  ",
+        "img": " https://i.ibb.co/sVNSMgH/images-5.jpg",
+        "price":"7874"
+
+    },
+    {
+        "id": 6,
+        "name": "rugged Cycale ",
+        "desc": " When it comes to rugged touring bikes, Trek hit a home run with the 520. No one will fault you for p",
+        "img": "https://i.ibb.co/jhcKgzM/images-4.jpg ",
+        "price":"897"
+    },
+    {
+        "id": 7,
+        "name": "Specialized Cycle ",
+        "desc": "Specialized was founded in 1974 by Mike Sinyard. Based in California, the company initially focused on importing Italian parts ",
+        "img": "https://i.ibb.co/tpRdNpp/images-2.jpg ",
+        "price":"4874"
+
+    },
+    {
+        "id": 8,
+        "name": "pickle Cycale ",
+        "desc": "They followed that up with a canvas bag that they produced in a loft above a pickle factory.   ",
+        "img": "https://i.ibb.co/rkkBK2H/images-1.jpg ",
+        "price":"9867"
+    },
+    {
+        "id": 9,
+        "name": " adoption Cycale",
+        "desc": " In 2004 they led the industry with the aggressive adoption of Carbon into their assemblies and their bikes continued to outperform.  ",
+        "img": "https://i.ibb.co/fpyJjCJ/download.png ",
+        "price":"3456"
+    },
+    {
+        "id": 11,
+        "name": "California Cycale ",
+        "desc": " Founded in 1977 as a California company, it was originally a BMX brand.  A major bicycle manufacturer based in Washington state, ",
+        "img": "https://i.ibb.co/rcZrkxy/download.jpg ",
+        "price":"4234"
+    },
+    {
+        "id": 12,
+        "name": "iamondback Bicycle ",
+        "desc": " iamondback Bicycle brands offers an array of models you can ride on the trails or the road for men, women, and children",
+        "img": "https://i.ibb.co/yP2wYXX/download-5.jpg ",
+        "price":"8975"
+    },
+    {
+        "id": 13,
+        "name": "nnovations Bicycle ",
+        "desc": " One of the innovations pioneered by Diamondback is the Knuckle Box suspension, which is found on its Mountain Bikes.  In 1",
+        "img": "https://i.ibb.co/R3YK7qY/download-4.jpg ",
+        "price":"5434"
+    },
+    {
+        "id": 14,
+        "name": " special bike",
+        "desc": " Do one thing and do it well. These bikes are built for top end riders that need a  special bike. They have a rotating line up of",
+        "img": "https://i.ibb.co/BttnnSd/download-3.jpg ",
+        "price":"3444"
+    },
+    {
+        "id": 15,
+        "name": "Marin bikes ",
+        "desc": "Marin bikes were born in California in 1986, founded on the base of cycling culture. The company is an American manufacturer that specializes i ",
+        "img": "https://i.ibb.co/5G2MjzD/download-2.jpg ",
+        "price":"2343"
+    },
+    {
+        "id": 16,
+        "name": " motto Cycale",
+        "desc": "The main motto of the company is to provide an unusual experience with every bike they build. The company's development ",
+        "img": " https://i.ibb.co/d6NJJT9/download-1.jpg",
+        "price":"5874"
+
+    }
+]
